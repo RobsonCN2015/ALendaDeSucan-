@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 10424863f922cb34c8413aef19bd86c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300002: MosquitoChefaoBoss_Habilidades_1
+    21300010: MosquitoChefaoBoss_Habilidades_5
+    21300012: MosquitoChefaoBoss_Habilidades_6
+    21300014: MosquitoChefaoBoss_Habilidades_7
+    21300016: MosquitoChefaoBoss_Habilidades_8
+    21300018: MosquitoChefaoBoss_Habilidades_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 267
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 268
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 261
+        width: 63
+        height: 99
+      alignment: 9
+      pivot: {x: .437384725, y: .599615514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 265
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 262
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 133
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 120
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 63
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MosquitoChefaoBoss_Habilidades_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 15
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

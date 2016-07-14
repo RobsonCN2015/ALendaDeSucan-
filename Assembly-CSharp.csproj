@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{99FB3104-FE60-EFA7-196D-2859EFF4657C}</ProjectGuid>
+	<ProjectGuid>{573DD33A-618E-7E36-AD67-4AA4A5D545EA}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\Atirador.cs" />
+     <Compile Include="Assets\scripts\BOSS.cs" />
      <Compile Include="Assets\scripts\Bala.cs" />
      <Compile Include="Assets\scripts\BolaFogo.cs" />
      <Compile Include="Assets\scripts\Camera.cs" />
